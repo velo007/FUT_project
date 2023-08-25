@@ -138,11 +138,28 @@ def convert_stats_to_int(df: pd.DataFrame) -> None:
     for stat in stats:
         df[stat] = df[stat].apply(lambda x: re.split(r'\s+', x)[1])
 
+def bin_map(bin_str : str) -> int:
+    number = 0
+    if type(bin_str) == float:
+        number = bin_str
+    elif not bin_str[-1].isalpha():
+        number = float(bin_str)
+    else:
+        n_string = bin_str[:-1]
+        l_string =bin_str[-1]
+        number = float(n_string) * (1000000 if l_string =='M' else 1000)
+    
+    return number
+
+def convert_bin_to_float(df: pd.DataFrame) -> None:
+    df['bin'] = df['bin'].map(bin_map)
+
 def get_data() -> pd.DataFrame:
     df = scrape()
     # get_flags(df, iterations)
     format_player(df)
     convert_stats_to_int(df)
+    convert_bin_to_float(df)
     return df
 
 
@@ -150,25 +167,9 @@ def get_data() -> pd.DataFrame:
 
 
 
+
 if __name__ == '__main__':
     
  
     # result_df = get_data()
-    # result_df.to_csv('all_players_dat a',index=False)
-    # print(os.getcwd())
-    data = pd.read_csv('all_players_data', index_col=False)
-   
-   
-    
-
-
-
-
-
-
-
-    
-    
-    
-
-
+    # result_df.to_csv('all_players_data',index=False)

@@ -1,0 +1,100 @@
+id,name,ovr,pos,bin,pac,sho,pas,dri,def,phy,s/m,w/f,w/rs,foot,stats,nationality,league,club
+0,Cristiano Ronaldo,99,"['ST', 'CF', 'LW']",14900000.0,97,99,93,97,41,88,5,5,H/L,Right,2400,102, SAU 1,Al Nassr
+1,Kevin De Bruyne,99,"['CM', 'CAM']",,88,95,99,97,91,99,5,5,H/H,Right,2644,130, ENG 1,Manchester City
+2,Pele,99,"['LW', 'RM', 'LM', 'RW']",8700000.0,96,97,94,99,61,78,5,5,H/M,Right,2458,119, ICO,Icons
+3,Vinicius Junior,98,"['LW', 'LM', 'CF']",,99,94,94,99,45,85,5,5,H/M,Right,2377,119, ESP 1,Real Madrid
+4,Leon Goretzka,98,"['CM', 'CDM']",,93,93,95,94,93,98,4,5,H/H,Right,2594,80, GER 1,FC Bayern Munchen
+5,Kevin De Bruyne,98,"['CM', 'CAM']",1800000.0,86,94,99,96,87,88,4,5,H/H,Right,2541,130, ENG 1,Manchester City
+6,Thierry Henry,98,"['RW', 'RM', 'CAM']",7100000.0,98,95,93,98,70,86,5,5,H/M,Right,2491,61, ICO,Icons
+7,Garrincha,98,"['ST', 'CF']",2300000.0,94,98,90,98,46,84,5,4,H/M,Right,2371,119, ICO,Icons
+8,Virgil van Dijk,98,"['CDM', 'CM']",5200000.0,92,80,90,91,98,96,4,5,M/H,Right,2513,98, ENG 1,Liverpool
+9,Lionel Messi,98,"['ST', 'RM', 'RW']",1900000.0,94,97,96,99,40,79,4,4,H/L,Left,2356,117, FRA 1,Paris SG
+10,Lionel Messi,98,"['RW', 'RM']",2000000.0,93,98,97,99,40,77,4,4,H/L,Left,2370,117, FRA 1,Paris SG
+11,Pele,98,"['CAM', 'CF', 'ST']",1800000.0,95,96,93,96,60,76,5,4,H/M,Right,2415,119, ICO,Icons
+12,Angel Di Maria,97,"['RW', 'RM', 'CAM', 'ST']",1900000.0,97,94,95,98,61,84,5,5,H/M,Left,2462,117, POR 1,SL Benfica
+13,Julian Alvarez,97,"['ST', 'CF', 'RW', 'LW']",1600000.0,95,97,93,95,65,86,5,5,H/H,Right,2460,117, ENG 1,Manchester City
+14,Raphael Varane,97,['CB'],,93,62,77,86,98,96,2,5,M/H,Right,2258,61, ENG 1,Manchester Utd
+15,Bastian Schweinsteiger,97,"['CB', 'RB']",1800000.0,90,80,88,86,97,97,3,5,H/H,Right,2486,80, ICO,Icons
+16,Paul Pogba,97,"['ST', 'RM', 'CF', 'RW']",3400000.0,95,97,91,95,67,95,5,5,H/L,Right,2498,61, ITA 1,Juventus
+17,Anthony Martial,97,"['CM', 'RM']",828000.0,93,86,98,97,88,96,4,5,H/H,Right,2590,61, ENG 1,Manchester Utd
+18,Ousmane Dembele,97,"['CAM', 'CM', 'CF']",3900000.0,97,92,95,99,73,80,5,5,H/M,Left,2462,61, ESP 1,FC Barcelona
+19,Bruno Fernandes,97,"['LW', 'RM', 'LM', 'RW']",1600000.0,96,93,95,99,75,84,5,4,H/H,Right,2516,102, ENG 1,Manchester Utd
+20,Erling Haaland,97,"['ST', 'CF']",1300000.0,97,97,82,90,61,95,4,5,H/M,Left,2361,100, ENG 1,Manchester City
+21,Kylian Mbappe,97,"['ST', 'CF', 'LW']",5900000.0,99,97,87,99,43,85,5,4,H/L,Right,2342,61, FRA 1,Paris SG
+22,Robert Lewandowski,97,"['ST', 'CF']",157000.0,90,99,86,93,51,90,4,5,H/M,Right,2378,101, ESP 1,FC Barcelona
+23,Victor Osimhen,97,"['ST', 'CF']",950000.0,99,97,82,94,55,95,4,5,H/M,Right,2366,32, ITA 1,Napoli FC
+24,Jude Bellingham,97,"['CM', 'CDM', 'LM']",1400000.0,90,90,94,98,93,94,4,5,H/H,Right,2548,35, GER 1,Borussia Dortmund
+25,Toni Kroos,97,"['CDM', 'CAM', 'CF']",,90,87,96,93,92,90,5,5,H/H,Right,2536,80, ESP 1,Real Madrid
+26,Victor Osimhen,97,"['ST', 'CF']",920000.0,99,97,82,94,55,95,4,5,H/M,Right,2366,32, ITA 1,Napoli FC
+27,Rafael Leao,97,"['LW', 'LM']",928000.0,99,93,89,98,40,91,5,4,M/L,Right,2316,102, ITA 1,Milan
+28,Kylian Mbappe,97,"['ST', 'CF', 'LW']",5300000.0,99,97,87,99,43,85,5,4,H/L,Right,2342,61, FRA 1,Paris SG
+29,Karim Benzema,97,"['CF', 'ST']",998000.0,93,96,89,93,45,94,5,4,H/M,Right,2356,61, ESP 1,Real Madrid
+30,Luka Modric,97,['CM'],145000.0,87,87,99,99,86,84,4,5,H/M,Right,2544,1, ESP 1,Real Madrid
+31,Robert Lewandowski,97,"['ST', 'CF']",129000.0,90,99,86,93,51,90,4,5,H/M,Right,2378,101, ESP 1,FC Barcelona
+32,Jamal Musiala,97,"['CAM', 'CM', 'LM']",516000.0,94,88,92,98,81,86,5,4,H/M,Right,2442,80, GER 1,FC Bayern Munchen
+33,Jude Bellingham,97,"['CM', 'CDM', 'LM']",1300000.0,90,90,94,98,93,94,4,5,H/H,Right,2555,35, GER 1,Borussia Dortmund
+34,Erling Haaland,97,"['ST', 'CF']",1200000.0,97,97,82,90,61,95,4,5,H/M,Left,2361,100, ENG 1,Manchester City
+35,Kevin De Bruyne,97,"['CM', 'CAM']",315000.0,84,92,99,95,85,87,4,5,H/H,Right,2506,130, ENG 1,Manchester City
+36,Ronaldo Nazario,97,"['ST', 'CF']",8000000.0,97,96,82,96,45,82,5,5,H/M,Right,2303,119, ICO,Icons
+37,Zinedine Zidane,97,"['CAM', 'CM']",2100000.0,86,92,96,95,81,88,5,5,H/H,Right,2484,61, ICO,Icons
+38,Kevin De Bruyne,97,"['CM', 'CAM']",599000.0,85,94,98,94,81,86,4,5,H/H,Right,2497,130, ENG 1,Manchester City
+39,Karim Benzema,97,"['CF', 'ST']",650000.0,92,97,90,94,45,90,4,5,H/M,Right,2352,61, ESP 1,Real Madrid
+40,Kylian Mbappe,97,"['ST', 'CF', 'LW']",5200000.0,99,96,88,98,44,87,5,4,H/L,Right,2361,61, FRA 1,Paris SG
+41,Heung Min Son,96,"['LW', 'LM', 'CAM']",,96,97,91,97,49,80,5,5,H/M,Right,2342,57, ENG 1,Spurs
+42,Joe Gomez,96,"['CB', 'RB']",719000.0,94,45,86,86,96,96,3,5,M/H,Right,2234,35, ENG 1,Liverpool
+43,Diogo Jota,96,"['ST', 'CF', 'LW']",,96,94,88,96,70,88,5,5,H/H,Right,2459,102, ENG 1,Liverpool
+44,Aurelien Tchouameni,96,"['CDM', 'CM']",,93,83,92,91,94,96,3,5,M/H,Right,2473,61, ESP 1,Real Madrid
+45,Gabriel Martinelli,96,"['LM', 'CF', 'LW']",,99,90,90,98,71,90,5,4,H/H,Right,2461,119, ENG 1,Arsenal
+46,Leon Goretzka,96,"['CM', 'CDM']",1400000.0,91,91,93,93,91,95,3,5,H/H,Right,2533,80, GER 1,FC Bayern Munchen
+47,Hakan Calhanoglu,96,"['CM', 'CDM', 'CAM']",,94,91,97,94,90,89,4,5,H/H,Right,2554,112, ITA 1,Inter
+48,Edinson Cavani,96,"['ST', 'CF']",,92,96,89,94,65,89,5,4,H/H,Right,2465,126, ESP 1,Valencia CF
+49,Timo Werner,96,"['ST', 'CF', 'LW']",,99,94,90,96,48,82,4,5,H/M,Right,2355,80, GER 1,RB Leipzig
+50,Joao Felix,96,"['CAM', 'CM']",877000.0,94,91,94,96,80,86,5,5,H/M,Right,2502,102, ENG 1,Chelsea
+51,Hugo Lloris,96,"['CM', 'CDM']",855000.0,91,87,97,93,93,95,4,5,M/H,Left,2603,61, ENG 1,Spurs
+52,N'Golo Kante,96,"['CDM', 'CM']",,90,81,91,90,98,90,4,5,M/H,Right,2460,61, ENG 1,Chelsea
+53,Frenkie de Jong,96,"['CDM', 'CB']",1300000.0,91,81,93,94,97,93,4,5,H/H,Right,2510,98, ESP 1,FC Barcelona
+54,Samuel Eto'o,96,"['LW', 'LM']",1000000.0,97,92,92,97,51,84,5,5,H/L,Right,2387,4, ICO,Icons
+55,Samuel Eto'o,96,"['RW', 'RM']",1300000.0,97,92,92,97,51,84,5,5,H/L,Right,2387,4, ICO,Icons
+56,Memphis Depay,96,"['CM', 'CAM']",263000.0,91,88,97,95,91,93,5,4,H/M,Right,2564,98, ESP 1,Atletico de Madrid
+57,Antonio Rudiger,96,"['ST', 'CF']",336000.0,98,95,86,92,65,94,4,5,H/H,Right,2434,80, ESP 1,Real Madrid
+58,Robin van Persie,96,"['RW', 'RM']",549000.0,98,95,88,98,51,78,5,4,H/M,Left,2357,98, ICO,Icons
+59,Robin van Persie,96,"['CAM', 'CF']",347000.0,93,96,98,94,75,89,4,5,H/M,Left,2519,98, ICO,Icons
+60,Khvicha Kvaratskhelia,96,"['LW', 'LM', 'CAM']",655000.0,98,91,92,98,52,82,5,5,M/M,Right,2354,76, ITA 1,Napoli FC
+61,Khvicha Kvaratskhelia,96,"['LW', 'LM', 'CAM']",490000.0,98,91,92,98,52,82,5,5,M/M,Right,2354,76, ITA 1,Napoli FC
+62,Neymar Jr,96,"['LW', 'LM', 'CAM']",1300000.0,95,93,92,99,44,71,5,5,H/M,Right,2326,119, FRA 1,Paris SG
+63,Cristiano Ronaldo,96,"['ST', 'CF']",839000.0,94,98,86,94,38,84,5,4,H/L,Right,2300,102, SAU 1,Al Nassr
+64,Joshua Kimmich,96,"['CDM', 'RB', 'CM']",98500.0,86,80,98,92,92,90,4,4,H/H,Right,2490,80, GER 1,FC Bayern Munchen
+65,Matthijs de Ligt,96,['CB'],650000.0,90,68,80,83,95,96,2,4,M/H,Right,2296,98, GER 1,FC Bayern Munchen
+66,Mohamed Salah,96,"['RW', 'RM']",478000.0,96,95,90,97,54,83,5,3,H/M,Left,2370,12, ENG 1,Liverpool
+67,Ruben Dias,96,['CB'],246000.0,88,48,83,83,97,97,2,4,M/H,Right,2196,102, ENG 1,Manchester City
+68,Erling Haaland,96,"['ST', 'CF']",860000.0,96,96,80,88,60,94,4,4,H/M,Left,2324,100, ENG 1,Manchester City
+69,Thibaut Courtois,96,['GK'],510000.0,90,95,85,97,60,95,1,3,M/M,Left,936,130, ESP 1,Real Madrid
+70,Virgil van Dijk,96,['CB'],1100000.0,88,65,80,83,97,94,2,3,M/H,Right,2301,98, ENG 1,Liverpool
+71,Luka Modric,96,['CM'],140000.0,85,86,97,97,85,83,4,4,M/M,Right,2503,1, ESP 1,Real Madrid
+72,Pele,96,"['CF', 'CAM', 'ST']",1700000.0,96,94,92,95,58,75,5,4,H/M,Right,2378,119, ICO,Icons
+73,Zinedine Zidane,96,"['CAM', 'CM']",839000.0,85,92,96,95,75,86,5,5,M/M,Right,2451,61, ICO,Icons
+74,Ronaldo Nazario,96,"['ST', 'CF']",3100000.0,97,95,81,95,45,76,5,5,M/M,Right,2252,119, ICO,Icons
+75,Tim Cahill,95,"['ST', 'CM', 'CAM', 'CF']",,95,96,88,94,73,97,4,5,H/M,Right,2518,71, ENG 1,Heroes
+76,Ismael Bennacer,95,"['CM', 'CDM']",184000.0,93,86,94,99,93,91,4,5,H/H,Left,2587,153, ITA 1,Milan
+77,Ryan Kent,95,"['RW', 'RM', 'LM', 'LW']",,98,90,90,95,58,80,5,5,H/M,Right,2316,35, TUR 1,Fenerbahce
+78,Raphael Varane,95,['CB'],5400000.0,91,60,75,84,96,94,2,4,M/H,Right,2205,61, ENG 1,Manchester Utd
+79,Raheem Sterling,95,"['RW', 'RM']",,97,92,91,96,70,87,4,5,H/M,Right,2437,35, ENG 1,Chelsea
+80,Dusan Vlahovic,95,"['ST', 'CF']",,92,94,85,94,40,89,4,5,H/M,Left,2268,116, ITA 1,Juventus
+81,Enzo Fernandez,95,"['CM', 'CDM']",,91,88,93,94,90,95,3,5,H/H,Right,2553,117, ENG 1,Chelsea
+82,Alphonso Davies,95,"['LB', 'LWB', 'LM']",,99,80,92,94,88,88,5,5,H/H,Left,2457,131, GER 1,FC Bayern Munchen
+83,Gianfranco Zola,95,"['CAM', 'LM', 'LW']",,93,95,94,96,60,84,5,4,H/M,Right,2423,90, ICO,Icons
+84,Lukas Klostermann,95,"['LB', 'LWB']",459000.0,96,81,93,93,91,96,5,4,M/H,Right,2473,80, GER 1,RB Leipzig
+85,Harry Maguire,95,"['ST', 'CF']",127000.0,94,96,84,95,66,94,5,4,H/M,Right,2416,35, ENG 1,Manchester Utd
+86,Luis Figo,95,"['ST', 'CF']",300000.0,95,96,90,95,44,84,5,4,H/L,Right,2325,102, ICO,Icons
+87,Luis Figo,95,"['CM', 'CDM', 'LM']",390000.0,93,87,96,94,94,89,4,5,M/H,Right,2563,102, ICO,Icons
+88,Clarence Seedorf,95,"['CDM', 'CM']",305000.0,88,85,96,92,94,96,4,5,M/H,Right,2549,98, ICO,Icons
+89,Emmanuel Petit,95,"['CAM', 'RM', 'RW']",192000.0,93,90,95,97,77,84,5,3,H/H,Left,2470,61, ICO,Icons
+90,Emmanuel Petit,95,"['CB', 'RB']",341000.0,86,80,87,86,96,97,3,5,H/H,Left,2448,61, ICO,Icons
+91,Riyad Mahrez,95,"['ST', 'CF']",899000.0,95,97,91,95,45,77,5,5,H/M,Left,2321,153, ENG 1,Manchester City
+92,Frank Rijkaard,95,"['ST', 'CAM', 'CF']",162000.0,93,96,88,92,71,94,5,4,H/M,Right,2443,98, ICO,Icons
+93,Socrates,95,"['CM', 'CDM']",418000.0,91,87,96,95,93,94,4,5,H/H,Right,2575,119, ICO,Icons
+94,Dayot Upamecano,95,"['CAM', 'CM', 'CF']",,95,92,94,93,75,96,5,4,H/M,Right,2507,61, GER 1,FC Bayern Munchen
+95,Jordi Alba,95,"['LB', 'LWB']",,95,83,92,93,90,88,4,4,H/H,Left,2501,109, ESP 1,FC Barcelona
+96,Jota,95,"['RW', 'RM', 'LM', 'LW']",185000.0,99,90,92,98,58,81,5,4,H/M,Right,2382,102, SPFL,Celtic
+97,Sergio Busquets,95,"['CDM', 'CM']",,87,87,93,95,94,91,4,4,M/H,Right,2490,109, ESP 1,FC Barcelona
+98,Christopher Nkunku,95,"['CF', 'CAM', 'ST']",1400000.0,97,91,93,97,77,81,5,5,H/M,Right,2448,61, GER 1,RB Leipzig
